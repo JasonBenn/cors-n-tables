@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  dob: 2013-11-26
+  name: MyString
+  glasses: false
+
+two:
+  dob: 2013-11-26
+  name: MyString
+  glasses: false
